@@ -10,7 +10,7 @@
   background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   
   text-align: center;
-  position: fixed;
+  /* position: fixed; */
   top: 0;
   left: 0;
   width: 100%;
@@ -31,7 +31,7 @@
 }
 
 .banner-text h1 {
-  font-size: 86px;
+  font-size: 66px;
   font-weight: bold;
   color: white;
 }
@@ -51,7 +51,7 @@
 .social-links {
   display: flex;
   justify-content: space-between;
-  width: 58%;
+  width: 50%;
   margin: auto;
 }
 
